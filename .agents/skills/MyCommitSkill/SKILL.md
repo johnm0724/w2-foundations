@@ -1,6 +1,6 @@
 ---
 name: check-local-stack
-description: Generates clear, conventional Git commit messages based on staged changes. Use when the user asks to write a commit message or prepare a Git commit.
+description: Generates clear, conventional Git commit mess-lages based on staged changes. Use when the user asks to write a commit message or prepare a Git commit.
 ---
 
 # Check local stack
